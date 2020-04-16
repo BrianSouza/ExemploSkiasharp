@@ -5,7 +5,8 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
              mc:Ignorable="d"
-             x:Class="ExemploSkiasharp.MainPage">
+             x:Class="ExemploSkiasharp.MainPage"
+             BackgroundColor="Red">
 
     <skia:SKCanvasView 
             x:Name="skcv"/>
